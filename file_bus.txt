@@ -1,0 +1,5 @@
+Num Bus | Depart | Arrivee |Nb places |  TARIF 
+1         Tunis     Gabes       50       25.0 
+2         Tunis    Monastir     40       20.0 
+3         Tunis     Mahdia      30       15.0 
+ 

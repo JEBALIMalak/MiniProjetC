@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1703848626 source:c:\users\malak\onedrive\documents\mini projet\e-bus-travel project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
