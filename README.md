@@ -10,7 +10,9 @@ Voici une description du fonctionnement général de l'application :
 -Lorsque l'application démarre, elle affiche un menu principal offrant trois options :
 
 .Login (Connexion) : Les utilisateurs peuvent se connecter avec leur nom d'utilisateur et leur mot de passe. Les informations d'identification sont vérifiées par rapport à une liste de voyageurs enregistrés.
+
 ..Créer un Compte Voyageur : Les utilisateurs peuvent créer un nouveau compte voyageur en fournissant un nom d'utilisateur et un mot de passe. Ces informations sont ensuite ajoutées à la liste des voyageurs enregistrés.
+
 ...Exit (Quitter) : Permet de quitter l'application.
 
 2\Menu Voyageur
