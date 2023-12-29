@@ -5,7 +5,7 @@ L'application propose également une fonctionnalité d'avis, permettant aux util
 
 Voici une description du fonctionnement général de l'application :
 
-1\Menu Principal :\n
+1\Menu Principal :
 
 -Lorsque l'application démarre, elle affiche un menu principal offrant trois options :
 .Login (Connexion) : Les utilisateurs peuvent se connecter avec leur nom d'utilisateur et leur mot de passe. Les informations d'identification sont vérifiées par rapport à une liste de voyageurs enregistrés.
