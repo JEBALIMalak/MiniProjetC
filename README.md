@@ -16,15 +16,25 @@ Voici une description du fonctionnement général de l'application :
 ...Exit (Quitter) : Permet de quitter l'application.
 
 2\Menu Voyageur
+
 Une fois connecté, un voyageur voit un menu spécifique offrant diverses fonctionnalités :
+
 1.Réserver : Permet de réserver des places dans un bus en spécifiant le nombre de passagers et le numéro du bus.
+
 2.Afficher les Détails d'une Réservation : Permet d'afficher les détails d'une réservation en entrant le nom du passager.
+
 3.Annuler une Réservation : Permet d'annuler une réservation en entrant le nom du passager.
+
 4.Afficher les Détails des Voyages : Affiche les détails des voyages disponibles.
+
 5.Afficher les Informations d'un Bus : Affiche les informations détaillées d'un bus en spécifiant son numéro.
+
 6.Donner un Avis : Permet aux voyageurs de donner leur avis sur l'application en fournissant leur nom, une note sur cinq étoiles, et un commentaire.
+
 7.Afficher les Avis des Autres Utilisateurs : Affiche les avis des autres utilisateurs.
+
 8.Logout (Déconnexion) : Permet de se déconnecter et de revenir au menu principal.
+
 
 3\Base de Données des Bus :
 Les informations sur les bus, y compris leur numéro, départ, destination, nombre total de places, places disponibles, tarif, nom du chauffeur, et les services disponibles (wifi, climatisation), sont stockées dans un tableau de structures.
